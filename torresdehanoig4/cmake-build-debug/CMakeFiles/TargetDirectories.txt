@@ -1,0 +1,3 @@
+C:/Users/anyel/Desktop/torresdehanoig4/cmake-build-debug/CMakeFiles/TorresHanoi.dir
+C:/Users/anyel/Desktop/torresdehanoig4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anyel/Desktop/torresdehanoig4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
