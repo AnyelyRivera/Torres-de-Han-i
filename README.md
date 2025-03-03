@@ -19,3 +19,7 @@
    ```bash
    
    git clone https://github.com/tu-usuario/torres-hanoi.git  
+*.cpp linguist-language=C++
+*.cc linguist-language=C++
+*.cxx linguist-language=C++
+*.h linguist-language=C++
